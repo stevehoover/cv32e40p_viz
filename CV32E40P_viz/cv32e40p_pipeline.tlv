@@ -22,7 +22,7 @@
                                     //https://raw.githubusercontent.com/chaitravi-ce/cv32e40p/a391b0a0dbd49da79fa5faf43a7e55742f26f5e4/rtl/cv32e40p_core.sv  
    // Headers:
    m4_sv_get_url(m4_cv32e40p_src['cv32e40p_fp_wrapper.sv'])
-   m4_sv_get_url(m4_cv32e40p_src['cv32e40p_core.sv '])  
+   m4_sv_get_url(m4_cv32e40p_src['cv32e40p_core.sv'])  
 // m4_sv_get_url(m4_cv32e40p_src['cv32e40p_core.sv'])                                   
    m4_sv_get_url(m4_cv32e40p_src['cv32e40p_aligner.sv'])
    m4_sv_get_url(['https://raw.githubusercontent.com/chaitravi-ce/cv32e40p/master/bhv/cv32e40p_clock_gate.sv'])
